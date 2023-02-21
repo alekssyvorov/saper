@@ -1,0 +1,10 @@
+C:\Users\Evgeniy\source\repos\Saper\Saper\bin\Release\Saper.exe.config
+C:\Users\Evgeniy\source\repos\Saper\Saper\bin\Release\Saper.exe
+C:\Users\Evgeniy\source\repos\Saper\Saper\bin\Release\Saper.pdb
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.Properties.Resources.resources
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.csproj.GenerateResource.cache
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.exe
+C:\Users\Evgeniy\source\repos\Saper\Saper\obj\Release\Saper.pdb
